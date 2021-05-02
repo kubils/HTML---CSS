@@ -1,1 +1,1 @@
-[Kodluyoruz](kodluyoruz.org)
+[Kodluyoruz](https://www.kodluyoruz.org/)
