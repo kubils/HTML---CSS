@@ -1,0 +1,64 @@
+.box {
+    width:300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+
+    /* kutu dizilimi */
+    float: left; 
+}
+
+.bg-red {
+    background-color: red;
+}
+
+.bg-green {
+    background-color: green;
+    color: white;
+}
+
+.bg-yellow {
+    background-color: yellow;
+}
+
+.bg-blue {
+    background-color: blue;
+}
+/* clear box sides */
+.clear {
+    clear: both;
+}
+
+.gradient {
+    background-color:#FFBF5E;
+}
+
+.btn {
+    padding:10px 30px;
+    border-radius: 10px;
+    color: blue;
+}
+.container {
+    width: 1000px;
+    margin: 50px auto 0px;
+
+}
+.left-bar {
+    width:200px;
+    float: left;
+}
+
+.content {
+    width:800px;
+    float: left;
+}
+
+.card {
+    width:20%;
+    float: left;
+    padding: 5%;
+    margin-right: 3%;
+    background-color:gray;
+    border-radius: 10px;
+
+} 

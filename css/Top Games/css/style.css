@@ -1,0 +1,42 @@
+nav {
+    font-size:60px;
+}
+
+
+
+ul {
+    display: table;
+    margin: 0 auto;
+    color: rgb(0, 0, 0);
+    font-size:20px;
+  }
+
+h1 {
+    font-size: 50px;
+    color:red;
+
+}
+
+h3 {
+    font-size:35px;
+    color: blue;
+}
+
+h4  {
+    color:gray;
+    font-style:oblique;
+    font-size :20px;
+}
+#home-pr {
+    font-size: 20px;
+}
+
+.center-ol {
+    text-align: center;
+    list-style-position: inside;
+    font-size:20px;
+  }
+
+  .table-links {
+    font-size:20px;
+}

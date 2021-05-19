@@ -1,0 +1,60 @@
+h1, h2, h3, h4, h5, h6 {
+    color: pink;
+}
+
+p {
+    font-size: 11px;
+}
+
+#first-article {
+    font-size: 25px;
+    color: rgb(58, 118, 15);
+}
+
+.text-red {
+    color:red;
+}
+
+.fs-14 {
+    font-size:14px;
+}
+
+.fs-20 {
+    font-size:20px;
+}
+
+.fs-30 {
+    font-size:30px;
+}
+
+/* .class1.class2 */
+.color-blue.fw-normal {
+    color: blue;
+    font-weight: normal;
+}
+
+/* class2 in class1  */
+/* fw bold olan yer kırmızı olur */
+.color-red .fw-bold {
+    color: red;
+    font-weight: bold;
+}
+
+
+li:first-child {
+    color:green;
+}
+
+li:last-child {color:red}
+
+li:nth-child(3) {
+    color:pink;
+}
+
+ul ~ p{
+    color:orange;
+  }
+
+a.test:hover {
+    color:red;
+}
