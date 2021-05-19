@@ -1,0 +1,18 @@
+/* *********************Layout*********************************/
+body {
+    background-color:wheat;
+    font-family: sans-serif;
+}
+
+table {
+    color:blue;
+    font-size:11px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+ul {
+    color:orangered;
+}
